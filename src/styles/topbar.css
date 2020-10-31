@@ -9,7 +9,7 @@
     min-height: 300px;
 }
 .logoContainer{
-    width:100%;
+    margin: auto;
 }
 .logo{
     
@@ -28,3 +28,8 @@
     transform: rotate(90deg);
 }
 
+@media only screen and (max-width: 600px){
+    .logo{
+        width: 80%;
+    }
+}

@@ -34,3 +34,14 @@
     z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
     cursor: pointer;
 }
+
+@media only screen and (max-width: 600px){
+    
+    .open{
+        margin-right: 80vw;
+    }
+    .openSidebar{
+        
+     width: 80vw;
+    }
+}
