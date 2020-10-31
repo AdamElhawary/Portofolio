@@ -1,0 +1,30 @@
+.topbarContainer{
+    color: white;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 33%, rgba(40,40,41,1) 48%, rgba(0,0,0,1) 65%);
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    padding: .5rem;
+    min-height: 300px;
+}
+.logoContainer{
+    width:100%;
+}
+.logo{
+    
+    position: relative;
+    margin: auto;
+}
+.sidebarToggle{
+    align-self: flex-start;
+    cursor: pointer;
+    position: relative;
+    transition-duration: 2s;
+
+}
+.sidebarToggle:hover{
+    transition-duration: 2s;
+    transform: rotate(90deg);
+}
+
