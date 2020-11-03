@@ -2,10 +2,10 @@
     /* background-color: rgba(40,40,41,1); */
     position: absolute;
     width: 300px;
-    right:0px;
+    left:0px;
     height: 100vh;
     top:0px;
-    background-image: url('.././assets/Lion.svg');
+    background-image: url('.././assets/Lion-light.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 50%;
@@ -14,7 +14,7 @@
     display: none;
 }
 .open{
-    margin-right: 300px;
+    margin-left: 300px;
     transition-duration: .5s;
 }
 .close{
@@ -38,7 +38,7 @@
 @media only screen and (max-width: 600px){
     
     .open{
-        margin-right: 80vw;
+        margin-left: 80vw;
     }
     .openSidebar{
         

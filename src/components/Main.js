@@ -1,8 +1,7 @@
 import React, {useState} from 'react'
 import Contact from './smallComp/Contact';
-import Header from './smallComp/Header';
-import Topbar from './smallComp/Topbar';
 import Footer from './smallComp/Footer';
+import Header from './smallComp/Header';
 import PreviousWork from './smallComp/PreviousWork';
 import AboutMe from './smallComp/AboutMe'
 import Sidebar from './smallComp/Sidebar'
@@ -12,8 +11,8 @@ export default function Main() {
     return (
         <div className='mainContainer'>
             <div className={open? 'open' : 'close'}>
-                <Topbar clicked={()=> setOpen(!open)} />
-                <Header />
+                
+                <Header clicked={()=> setOpen(!open)} />
                 <AboutMe />
                 <PreviousWork />
                 <Contact />
