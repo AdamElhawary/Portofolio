@@ -31,11 +31,23 @@
 }
 .aboutMeImg {
     /* flex: .5; */
-   
     
 }
 
 .aboutMeImg img{
     width: 100%;
     height: auto;
+}
+
+@media  only screen and (max-width:600px){
+    .aboutMeflex{
+        justify-content: center;
+        align-items: center;
+        flex-direction: column-reverse;
+    }
+    .aboutMeText{
+        
+        max-width: 100%;
+    }
+  
 }
