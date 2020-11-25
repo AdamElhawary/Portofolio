@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="232.625" height="71.353" viewBox="0 0 232.625 71.353">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientTransform="matrix(1, 0, 0, -1, 0, 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#010101"/>
+      <stop offset="0.268" stop-color="#450947" stop-opacity="0.922"/>
+      <stop offset="1" stop-color="#090809"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#090809"/>
+      <stop offset="0" stop-color="#450947" stop-opacity="0.922"/>
+      <stop offset="1" stop-color="#0e020e"/>
+    </radialGradient>
+  </defs>
+  <g id="logo" transform="translate(151.214 74.907)">
+    <g id="Group_3" data-name="Group 3" transform="translate(0 63)">
+      <g id="Group_2" data-name="Group 2" transform="translate(-152.691 -132.418)">
+        <g id="Group_1" data-name="Group 1">
+          <path id="Path_1" data-name="Path 1" d="M230.766,61.316C178.529,73.546,5.126,49.959,5.126,49.959" stroke="#130016" stroke-width="1.97" fill="url(#radial-gradient)"/>
+          <path id="Path_2" data-name="Path 2" d="M233.728,49.931C182.968,70.8,1.691,30.55,1.691,30.55" fill="none" stroke="#130016" stroke-width="1.97"/>
+        </g>
+        <path id="Path_3" data-name="Path 3" d="M310.224,201.028c8.517-1.253,13.286-4.635,16.014-8.565.111-.159.217-.319.417-.634a18.959,18.959,0,0,0,2.151-13.43" transform="matrix(0.883, 0.469, -0.47, 0.882, -172.839, -272.847)" fill="none" stroke="#130016" stroke-width="1.498"/>
+        <path id="Path_4" data-name="Path 4" d="M310.224,212.816c15.749-1.906,24.567-7.05,29.611-13.027.2-.242.4-.485.771-.965,7.234-9.3,3.977-20.425,3.977-20.425" transform="matrix(0.883, 0.469, -0.47, 0.882, -171.796, -302.647)" fill="none" stroke="#130016" stroke-width="1.498"/>
+      </g>
+      <g id="Group_2-2" data-name="Group 2" transform="translate(-1 -6)">
+        <text id="AdamWebMas" transform="translate(-101.078 -112.509) rotate(7)" fill="#fff" font-size="20" font-family="Bahnschrift" font-weight="700" letter-spacing="0.069em"><tspan x="0" y="16">AdamWebMas</tspan></text>
+        <text id="ter" transform="translate(35.038 -94.897) rotate(-9)" fill="#fff" font-size="20" font-family="Bahnschrift" font-weight="700" letter-spacing="0.069em"><tspan x="0" y="16">ter</tspan></text>
+      </g>
+    </g>
+    <g id="Lion_Logo-Original" data-name="Lion Logo-Original" transform="translate(-0.093 61.159)">
+      <g id="Group_9" data-name="Group 9" transform="translate(-36 45)">
+        <path id="Path_8" data-name="Path 8" d="M-86.034-172.285c-4.608-3.706-4.281-3.327-4.281-3.327l.285,3.9-6.992.746,3.139,1.664-4.281,3.442,3.068,1.319-2.426,2.983,2.925-.688-5.137,4.761,4.138-1.434-2.568,4.647,3.068.516-2.426,4.13,5.351-1.778-.856,4.13,3.924-2.352v4.016l2.568-2.409,1.07,2.983,2.5-2.639,1.855,2.926,1.57-3.729,3.21,3.442.428-4.245,5.993,1.262-2.64-4.188,5.208-1.549-5.208-1.893,6.421-3.9-5.065-.746,3.282-4.532-.882.273-3.756,1.161,3.5-5.909-5.208,1.836,4.352-3.5h-6.849v-3.614l-3.353,2.295-2.854-4.13Z" transform="matrix(0.985, 0.174, -0.174, 0.985, -37.626, 10.961)" stroke="rgba(219,214,214,0.79)" stroke-width="1" fill="url(#radial-gradient-2)"/>
+        <g id="Group_6" data-name="Group 6" transform="translate(-100.841 -173.615)">
+          <path id="Path_2-2" data-name="Path 2" d="M0,.015C3.166.109,3.532.949,2.714,1.593A5.935,5.935,0,0,1,.94,2.16" transform="translate(13.273 2.36) rotate(-54.975)" fill="#450947" stroke="rgba(219,214,214,0.79)" stroke-width="1"/>
+          <path id="Path_10" data-name="Path 10" d="M.955,2.9A4.938,4.938,0,0,0,1.922.642c.019-1.034-1-.6-1.886.511" transform="translate(1 1.972) rotate(-76.992)" fill="#450947" stroke="rgba(219,214,214,0.79)" stroke-width="1"/>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(-99.161 -164.628)">
+          <g id="Group_4" data-name="Group 4">
+            <path id="Path_5" data-name="Path 5" d="M-76.966-113.553a10.3,10.3,0,0,0-.654,1.137c-.035.082-.227.161-.457.185a6.732,6.732,0,0,1-2.641-.684l1.237-.639Z" transform="translate(25.623 136.297) rotate(25)" fill="#450947" stroke="#fffcfc" stroke-width="0.5"/>
+            <path id="Path_14" data-name="Path 14" d="M-80.718-113.553a10.3,10.3,0,0,1,.654,1.137c.035.082.227.161.457.185a6.732,6.732,0,0,0,2.641-.684l-1.237-.639Z" transform="translate(130.04 69.656) rotate(-25)" fill="#450947" stroke="#fffcfc" stroke-width="0.5"/>
+          </g>
+        </g>
+        <path id="Path_9" data-name="Path 9" d="M-77.836-127.039c-.893,2.065-2.51,3.269-3.748,3.155-1.983-.18-3.518-3.155-3.518-3.155l-6.543-3.09,5.1-12.139,4.959,3.933,6.92-3.933,4.409,12.139Z" transform="translate(-11.513 -28.45)" fill="none" stroke="#f6efef" stroke-width="0.5"/>
+        <path id="Path_11" data-name="Path 11" d="M-57.134-96.009l-3.253-1.138-2.7,1.537-.158.083" transform="translate(-32.573 -58.892)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        <path id="Path_12" data-name="Path 12" d="M-55.834-104.733v-1.549l1.289-1.2h-2.537l1.026.987.276.254" transform="translate(-37.09 -51.306)" fill="none" stroke="#fffefe" stroke-width="0.5"/>
+        <g id="Group_7" data-name="Group 7" transform="matrix(0.985, 0.174, -0.174, 0.985, -91.487, -158.447)">
+          <path id="Path_13" data-name="Path 13" d="M-47.393-104.365h0c6.661-1.461,1.293-.353,1.293-.353" transform="translate(47.393 105.12)" fill="none" stroke="#fffbfb" stroke-width="0.5"/>
+        </g>
+        <g id="Group_8" data-name="Group 8" transform="translate(-97.792 -158.162)">
+          <path id="Path_13-2" data-name="Path 13" d="M-44.056-104.365h0c-6.661-1.461-1.293-.353-1.293-.353" transform="translate(63.216 96.678) rotate(-9)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -4,7 +4,7 @@ export default function Contact(props) {
     // const [dark, setTheme] = useState(true);
 
     return (
-        <div className='contactContainer'>
+        <div id='contact' className='contactContainer'>
             Contact fourm
         </div>
     )
