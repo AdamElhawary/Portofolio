@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Contact from './smallComp/Contact';
 import Footer from './smallComp/Footer';
 import Header from './smallComp/Header';
@@ -13,10 +13,10 @@ export default function Main() {
            
                 <Header/>
                 <AboutMe />
-                {/* <PreviousWork />
+                <PreviousWork />
                 <Contact />
                 <Footer />
-             */}
+            
         </>
     )
 }
