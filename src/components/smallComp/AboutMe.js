@@ -15,7 +15,7 @@ export default function AboutMe() {
                        I got bored trying to complete a repetitive task on a specific website.
                         I wanted to do it faster! I started to learn Js/Html/Css.<br/>
                         <strong>11/22/2012</strong>I created a Chrome Extension to complete the task automatically "Best day of my life". 
-                    <br/> I'm a <strong>Web Developer</strong> and finally I do what I love.
+                    <br/> I'm a commited <strong>Web Developer</strong> and finally I do what I love.
                     </article>
                 </div>
                 <div className='aboutMeImg' >
