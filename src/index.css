@@ -24,4 +24,6 @@ code {
   margin: 0;
 }
 
-
+circle[Attributes Style] {
+  fill: rgba(61, 0, 51, 0.637);
+}
