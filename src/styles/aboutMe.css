@@ -1,53 +1,19 @@
-.aboutMeContainer {
-    margin-bottom: 0;
-    /* margin-top: 2rem; */
-    
-}
 
-.headtitles{
-    color: rgb(31, 1, 26);
-    font-size: 4rem;
-}
+/* sectionContainer is in  main css */
+/* headtitles are in main css */
 
-.aboutMeflex{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 100%;
-    padding: .5rem 1.5rem;
-    background-color: rgba(245, 245, 245, 0.486);
-}
+
+
 
 .aboutMeText{
-    color: rgb(31, 1, 26);;
-    font-size: 1.5rem;
-    flex: 1;
-    flex-basis: 100%;
-    max-width: 50%;
+    color: rgb(85, 1, 71);
+    font-size: 1.2rem;
     text-align: left;
-    
 }
-.aboutMeImg {
-    /* flex: .5; */
-    
-}
+
 
 .aboutMeImg img{
     width: 100%;
     height: auto;
 }
 
-@media  only screen and (max-width:600px){
-    .aboutMeflex{
-        justify-content: center;
-        align-items: center;
-        flex-direction: column-reverse;
-    }
-    .aboutMeText{
-        
-        max-width: 100%;
-    }
-  
-}

@@ -1,0 +1,12 @@
+<svg id="_045-linkedin" data-name="045-linkedin" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#590260"/>
+      <stop offset="1" stop-color="#120013"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_1" data-name="Path 1" d="M437,0H75A75.084,75.084,0,0,0,0,75V437a75.084,75.084,0,0,0,75,75H437a75.084,75.084,0,0,0,75-75V75A75.084,75.084,0,0,0,437,0Zm45,437a45.052,45.052,0,0,1-45,45H75a45.052,45.052,0,0,1-45-45V75A45.052,45.052,0,0,1,75,30H437a45.052,45.052,0,0,1,45,45Zm0,0" fill="url(#linear-gradient)"/>
+  <path id="Path_2" data-name="Path 2" d="M91,422h90V210H91Zm30-182h30V392H121Zm0,0" fill="url(#linear-gradient)"/>
+  <path id="Path_3" data-name="Path 3" d="M331.086,210H331a89.832,89.832,0,0,0-30,5.1V210H211V422h90V315a15,15,0,0,1,30,0V422h90V304.687c0-48.547-39.383-94.641-89.914-94.687ZM391,392H361V315a45,45,0,0,0-90,0v77H241V240h30v30.02l24.008-18.031A59.464,59.464,0,0,1,331,240h.059c31.93.031,59.941,30.258,59.941,64.688Zm0,0" fill="url(#linear-gradient)"/>
+  <path id="Path_4" data-name="Path 4" d="M91,180h90V90H91Zm30-60h30v30H121Zm0,0" fill="url(#linear-gradient)"/>
+</svg>
